@@ -1,0 +1,3 @@
+# UBUNTU LINUX
+>>> uname
+> Linux
